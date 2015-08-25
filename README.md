@@ -1,2 +1,2 @@
 # ECMAScript6Practice
-ES6联系
+ES6练习
